@@ -1,13 +1,10 @@
 ---
-title: Best Waves - Surfing In Spain
-subtitle: A intresting tale about Surfing
-date: '2018-01-15'
-thumb_img_path: images/4.jpg
-content_img_path: images/4.jpg
-excerpt: >-
-  Surfing is a surface water sport in which the wave rider, referred to as a
-  surfer, rides on the forward or deep face of a moving wave, which is usually
-  carrying the surfer towards the shore.
+title: '"Scavenger"'
+subtitle: 'Ride it through the wastelands as fast as you can and hope to survive '
+date: 2019-11-12T00:00:00.000Z
+thumb_img_path: /images/1.jpg
+content_img_path: /images/1.jpg
+excerpt: 'Ride it through the wastelands as fast as you can and hope to survive '
 template: post
 ---
 
