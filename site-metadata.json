@@ -1,12 +1,12 @@
 {
   "title": "Stackbit Fresh Theme",
-  "layout_style": "default",
+  "layout_style": "overflow",
   "palette": "orange",
   "header": {
     "title": "3D HP",
     "tagline": "3D Artist",
     "profile_img": "/images/hp-watermark.png",
-    "bg": "dark",
+    "bg": "light",
     "has_nav": true,
     "has_social": true
   },
