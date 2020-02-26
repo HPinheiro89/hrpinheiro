@@ -1,24 +1,28 @@
 ---
-title: How To Choose An Interior Designer
-subtitle: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”.
-date: '2017-03-26'
-thumb_img_path: images/1.jpg
-excerpt: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”. An interior designer is
-  someone who coordinates and manages such projects. Interior design is a
-  multifaceted profession that includes conceptual development, communicating
-  with the stakeholders of a project and the management and execution of the
-  design.
+title: 'Gundam '
+subtitle: AN-01 Tristan
+date: 2018-08-19T23:00:00.000Z
+thumb_img_path: /images/gundam_an-01_tristan-1-.jpg
+content_img_path: /images/gundam_an-01_tristan-1-.jpg
+excerpt: AN-01 Tristan
 template: post
 ---
+![](/images/gundam_an-01_tristan-2-.jpg)
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+![](/images/gundam_an-01_tristan-3-.jpg)
 
-> “Creativity is nothing but the way to solve new problems.”
+## *About*
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+It's a Gundam! Not much more explanation needed there 
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+This was one of my first big time works, was a lot of fun building and posing it.
+
+
+
+
+
+#### *Tools Used*
+
+* 3D's Max
+* Mental Ray Renderer
+* Photoshop
