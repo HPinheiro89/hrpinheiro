@@ -1,5 +1,8 @@
 ---
 title: '"The Corner"'
+subtitle: >-
+  In the back of a saloon placed between nowhere and somewhere in the old wild
+  west
 date: 2020-02-21T00:00:00.000Z
 thumb_img_path: /images/saloon-final.jpg
 content_img_path: /images/saloon-final.jpg
