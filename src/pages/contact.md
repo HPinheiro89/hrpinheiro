@@ -1,9 +1,9 @@
 ---
-title: Reach Out
+title: Contact
 img_path: /images/intro.jpg
 menus:
   main:
-    title: Contact
+    title: Reach Out
     weight: 5
 template: contact
 ---
