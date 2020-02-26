@@ -7,8 +7,6 @@ content_img_path: /images/1.jpg
 excerpt: 'Ride it through the wastelands as fast as you can and hope to survive '
 template: post
 ---
-
-
 ![](/images/3.jpg)
 
 ## *About*
