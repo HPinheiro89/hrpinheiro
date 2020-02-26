@@ -1,20 +1,25 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work.
-img_path: images/about.jpg
+title: Who am I?
+subtitle: ''
+img_path: /images/p1040703.jpg
 menus:
   main:
-    title: About
-    weight: 4
+    title: The Artist
+    weight: 3
 template: page
 ---
+Hi I'm **Hélio Pinheiro,** a self tought 3D artist from Lisbon, Portugal. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I was born in Africa, moved to Portugal at the age of 3 and was since an early age very fond of arts in general.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+When I discovered 3D modelling it started as an hobby but quickly grew up to be a passion and now I'm on the road to make a living out of it.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Countless hours of tutorials got me to where I'm at today but my search for perfection keeps pushing me further and further.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+> A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+>
+>  <cite>George Bernard Shaw</cite>
+
+As life is not just about work, I enjoy taking long walks in nature, practice some sports and read a book every now and then, keeping a good balance between body and brain activity.
 
 *Thank You for reading!*
