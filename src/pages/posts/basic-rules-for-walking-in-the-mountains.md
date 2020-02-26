@@ -11,10 +11,25 @@ excerpt: >-
   west
 template: post
 ---
-
-
 ![](/images/saloon-no-mats-.jpg)
 
-Using Autodesk 3D's Max as my main tool I modeled this scene.
+## *About*
 
-First step was getting the models and arranging the scene as I go, after that I start working with the Materials and Textures to give some life to the picture and last but not least using Vray Sun and Vray Lights I light it up.
+I love the wild west so I decided to create this scene.
+
+It took me a while to get the mood right for what I was aiming for but I'm happy with how it turned out in the end.
+
+The corner of an old saloon, the place nobody wants to go.
+
+Who's the owner of this cowboy hat and this Magnum 44?
+
+Why did he had to leave in such a hurry and didnt even finish his whiskey?
+
+
+
+#### *Tools Used*
+
+* 3D's Max
+* V-Ray
+* Photoshop
+* After Effects
