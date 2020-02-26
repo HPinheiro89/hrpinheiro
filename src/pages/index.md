@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: More Art
-        url: theart/index.html
+        url: theart.html
     component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
