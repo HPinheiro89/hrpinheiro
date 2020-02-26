@@ -1,8 +1,10 @@
 ---
-title: Blog
+title: The Art
 menus:
   main:
-    title: Blog
+    identifier: theart
+    title: The Art
     weight: 2
 template: blog
 ---
+
