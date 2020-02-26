@@ -1,5 +1,5 @@
 ---
-title: 'Gundam '
+title: '"Gundam"'
 subtitle: AN-01 Tristan
 date: 2018-08-19T23:00:00.000Z
 thumb_img_path: /images/gundam_an-01_tristan-1-.jpg
