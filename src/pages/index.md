@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: More Art
-        url: theart
+  - actions: []
     component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
