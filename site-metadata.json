@@ -5,7 +5,7 @@
   "header": {
     "title": "HP",
     "tagline": "3D Artist",
-    "profile_img": "/images/hp.bmp",
+    "profile_img": "/images/hp-watermark.png",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
