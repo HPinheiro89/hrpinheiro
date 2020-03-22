@@ -12,9 +12,9 @@
   }
 
   button,
-  input[type="submit"],
-  input[type="button"],
-  input[type="reset"],
+  input[type='submit'],
+  input[type='button'],
+  input[type='reset'],
   a.button {
     background: _palette(accent-blue);
     border-color: _palette(accent-blue);
@@ -23,7 +23,7 @@
     &:focus,
     &:active {
       background: 0;
-      box-shadow: 0 0 1px 7px rgba(_palette(accent-blue),.2);
+      box-shadow: 0 0 1px 7px rgba(_palette(accent-blue), 0.2);
     }
   }
 
@@ -46,10 +46,10 @@
   .profile {
     .avatar {
       border-color: _palette(accent-blue);
-      box-shadow: 0 0 1px 7px rgba(_palette(accent-blue),.2);
+      box-shadow: 0 0 1px 7px rgba(_palette(accent-blue), 0.2);
 
       @media only screen and (min-width: 801px) {
-        box-shadow: 0 0 1px 11px rgba(_palette(accent-blue),.2);
+        box-shadow: 0 0 1px 11px rgba(_palette(accent-blue), 0.2);
       }
     }
   }
@@ -66,7 +66,7 @@
       &:hover {
         background: _palette(accent-blue);
         border-color: _palette(accent-blue);
-        box-shadow: 0 0 1px 5px rgba(_palette(accent-blue),.2);
+        box-shadow: 0 0 1px 5px rgba(_palette(accent-blue), 0.2);
       }
     }
   }
@@ -98,9 +98,9 @@
   }
 
   button,
-  input[type="submit"],
-  input[type="button"],
-  input[type="reset"],
+  input[type='submit'],
+  input[type='button'],
+  input[type='reset'],
   a.button {
     background: _palette(accent-violet);
     border-color: _palette(accent-violet);
@@ -109,7 +109,7 @@
     &:focus,
     &:active {
       background: 0;
-      box-shadow: 0 0 1px 7px rgba(_palette(accent-violet),.2);
+      box-shadow: 0 0 1px 7px rgba(_palette(accent-violet), 0.2);
     }
   }
 
@@ -132,10 +132,10 @@
   .profile {
     .avatar {
       border-color: _palette(accent-violet);
-      box-shadow: 0 0 1px 7px rgba(_palette(accent-violet),.2);
+      box-shadow: 0 0 1px 7px rgba(_palette(accent-violet), 0.2);
 
       @media only screen and (min-width: 801px) {
-        box-shadow: 0 0 1px 11px rgba(_palette(accent-violet),.2);
+        box-shadow: 0 0 1px 11px rgba(_palette(accent-violet), 0.2);
       }
     }
   }
@@ -152,7 +152,7 @@
       &:hover {
         background: _palette(accent-violet);
         border-color: _palette(accent-violet);
-        box-shadow: 0 0 1px 5px rgba(_palette(accent-violet),.2);
+        box-shadow: 0 0 1px 5px rgba(_palette(accent-violet), 0.2);
       }
     }
   }
@@ -176,7 +176,7 @@
 
 .palette-orange {
   a {
-    border-color: _palette(accent-orange);
+    border-color: _palette(highlight);
 
     &:hover {
       border-color: currentColor;
@@ -184,18 +184,18 @@
   }
 
   button,
-  input[type="submit"],
-  input[type="button"],
-  input[type="reset"],
+  input[type='submit'],
+  input[type='button'],
+  input[type='reset'],
   a.button {
-    background: _palette(accent-orange);
-    border-color: _palette(accent-orange);
+    background: _palette(highlight);
+    border-color: _palette(highlight);
 
     &:hover,
     &:focus,
     &:active {
       background: 0;
-      box-shadow: 0 0 1px 7px rgba(_palette(accent-orange),.2);
+      box-shadow: 0 0 1px 7px rgba(_palette(highlight), 0.2);
     }
   }
 
@@ -205,30 +205,30 @@
     &:hover,
     &:focus,
     &:active {
-      background: _palette(accent-orange);
+      background: _palette(highlight);
     }
   }
 
   .underline {
     &:after {
-      border-color: _palette(accent-orange);
+      border-color: _palette(highlight);
     }
   }
 
   .profile {
     .avatar {
-      border-color: _palette(accent-orange);
-      box-shadow: 0 0 1px 7px rgba(_palette(accent-orange),.2);
+      border-color: _palette(highlight);
+      box-shadow: 0 0 1px 7px rgba(_palette(highlight), 0.2);
 
       @media only screen and (min-width: 801px) {
-        box-shadow: 0 0 1px 11px rgba(_palette(accent-orange),.2);
+        box-shadow: 0 0 1px 11px rgba(_palette(highlight), 0.2);
       }
     }
   }
 
   .menu-item a:hover,
   .current-menu-item a {
-    color: _palette(accent-orange);
+    color: _palette(highlight);
   }
 
   .social-links {
@@ -236,9 +236,9 @@
       border-color: _palette(border);
 
       &:hover {
-        background: _palette(accent-orange);
-        border-color: _palette(accent-orange);
-        box-shadow: 0 0 1px 5px rgba(_palette(accent-orange),.2);
+        background: _palette(highlight);
+        border-color: _palette(highlight);
+        box-shadow: 0 0 1px 5px rgba(_palette(highlight), 0.2);
       }
     }
   }
@@ -248,14 +248,14 @@
       border-color: _palette(primary);
 
       &:hover {
-        border-color: _palette(accent-orange);
+        border-color: _palette(highlight);
       }
     }
   }
 
   .post-title {
     a:hover {
-      color: _palette(accent-orange);
+      color: _palette(highlight);
     }
   }
 }
